@@ -1,0 +1,6 @@
+{
+  "name": "Spider-Man: Brand New Day",
+  "description": "The ultimate cinematic fan experience for Marvel Studios' Spider-Man: Brand New Day, featuring dynamic rain, physics-based web shooting, interactive New York map, and a Spider-Sense mode.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
